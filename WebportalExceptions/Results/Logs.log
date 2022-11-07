@@ -1,0 +1,14 @@
+16:59:19.381 [main] INFO  ui.AsosQA - The name of the testcase that succussed is :testTitle
+16:59:29.649 [main] INFO  ui.AsosQA - The name of the testcase that succussed is :hyperlinkTest
+16:59:36.002 [main] INFO  ui.AsosQA - The name of the testcase that succussed is :ShippingCancel
+16:59:39.859 [main] INFO  ui.AsosQA - The name of the testcase that succussed is :SearchTest
+16:59:44.944 [main] INFO  ui.AsosQA - The name of the testcase failed is :SneakerTest
+16:59:57.010 [main] INFO  ui.AsosQA - The name of the testcase that succussed is :inst
+18:06:15.032 [main] INFO  ui.AsosQA - The name of the testcase that succussed is :testTitle
+18:06:15.041 [main] INFO  ui.AsosQA - The name of the testcase failed is :SearchTest
+18:06:20.116 [main] INFO  ui.AsosQA - The name of the testcase failed is :ShippingCancel
+18:06:25.143 [main] INFO  ui.AsosQA - The name of the testcase failed is :SneakerTest
+18:06:35.003 [main] INFO  ui.AsosQA - The name of the testcase that succussed is :hyperlinkTest
+18:06:36.062 [main] INFO  ui.AsosQA - The name of the testcase failed is :inst
+18:09:18.459 [main] INFO  ui.AsosQA - The name of the testcase that succussed is :testTitle
+18:09:18.469 [main] INFO  ui.AsosQA - The name of the testcase failed is :SearchTest
